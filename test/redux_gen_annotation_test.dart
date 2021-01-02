@@ -4,8 +4,8 @@ import 'package:redux_gen_annotation/redux_gen_annotation.dart';
 
 void main() {
   test('Test', () {
-    Epic epic = Epic();
+    InitEpics initEpics = InitEpics();
 
-    expect(Epic, epic.runtimeType);
+    expect(InitEpics, initEpics.runtimeType);
   });
 }
