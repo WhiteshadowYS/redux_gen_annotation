@@ -1,0 +1,3 @@
+class Epic {
+  const Epic();
+}
